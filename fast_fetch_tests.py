@@ -1,0 +1,4 @@
+from brain_models_creation.system_tests.fast_fetch.fast_fetch_integration_test import \
+    group_by_counts_apis_integration_test, reverse_fetch_integration
+
+reverse_fetch_integration()
